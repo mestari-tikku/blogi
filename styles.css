@@ -6,6 +6,7 @@
 body {
   padding: 0 20px;
   background: white;
+  
 }
 
 
@@ -17,13 +18,12 @@ body > .container {
 }
 
 @media (max-width: 800px) {
+	body {
 
-	body > .container {
-	    padding-left: 35px;
-	    padding-right: 35px;
 	}
-	p {
-		text-align:justify;
+	body > .container {
+	    padding-left: 25px;
+	    padding-right: 25px;
 	}
 }
 
