@@ -8,6 +8,7 @@ body {
   background: white;
 }
 
+
 body > .container {
     max-width: 800px;
     padding-top: 35px;
@@ -20,6 +21,9 @@ body > .container {
 	body > .container {
 	    padding-left: 35px;
 	    padding-right: 35px;
+	}
+	p {
+		text-align:justify;
 	}
 }
 
