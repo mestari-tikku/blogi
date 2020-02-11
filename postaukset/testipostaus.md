@@ -7,3 +7,6 @@ Toimiikohan kappaleet kans?
 ## Väliotsikko
 
 Toivotaan.
+
+![Kuva](./img/kuva.png)
+
